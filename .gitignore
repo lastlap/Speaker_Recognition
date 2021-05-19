@@ -1,0 +1,6 @@
+*.mp3
+*.mp4
+*.wav
+*.ipynb
+*.csv
+.ipynb_checkpoints/
