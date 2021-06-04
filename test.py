@@ -11,8 +11,8 @@ import numpy as np
 
 import time
 
-import sounddevice as sd
-from scipy.io import wavfile
+# import sounddevice as sd
+# from scipy.io import wavfile
 
 # Comment these 2 lines to show warnings
 import warnings
